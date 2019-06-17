@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\exercice6exo_poumbrello\exercice6exo_poumbrello\bin\Debug\exercice6exo_poumbrello.exe.config
+C:\Users\Dell\source\repos\exercice6exo_poumbrello\exercice6exo_poumbrello\bin\Debug\exercice6exo_poumbrello.exe
+C:\Users\Dell\source\repos\exercice6exo_poumbrello\exercice6exo_poumbrello\bin\Debug\exercice6exo_poumbrello.pdb
+C:\Users\Dell\source\repos\exercice6exo_poumbrello\exercice6exo_poumbrello\obj\Debug\exercice6exo_poumbrello.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\exercice6exo_poumbrello\exercice6exo_poumbrello\obj\Debug\exercice6exo_poumbrello.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\exercice6exo_poumbrello\exercice6exo_poumbrello\obj\Debug\exercice6exo_poumbrello.exe
+C:\Users\Dell\source\repos\exercice6exo_poumbrello\exercice6exo_poumbrello\obj\Debug\exercice6exo_poumbrello.pdb

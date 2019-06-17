@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Exercice5partie4\Exercice5partie4\obj\Debug\Exercice5partie4.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Exercice5partie4\Exercice5partie4\obj\Debug\Exercice5partie4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Exercice5partie4\Exercice5partie4\bin\Debug\Exercice5partie4.exe.config
+C:\Users\Dell\source\repos\Exercice5partie4\Exercice5partie4\bin\Debug\Exercice5partie4.exe
+C:\Users\Dell\source\repos\Exercice5partie4\Exercice5partie4\bin\Debug\Exercice5partie4.pdb
+C:\Users\Dell\source\repos\Exercice5partie4\Exercice5partie4\obj\Debug\Exercice5partie4.exe
+C:\Users\Dell\source\repos\Exercice5partie4\Exercice5partie4\obj\Debug\Exercice5partie4.pdb
